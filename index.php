@@ -6,6 +6,7 @@
     }
 ?>
 
+
 <html>
     <head>
         <title>Página principal</title>
