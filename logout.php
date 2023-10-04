@@ -5,6 +5,7 @@
         exit();
     }
     unset($_SESSION['sessao']);
+    session_destroy();
 ?>
 
 <html>
